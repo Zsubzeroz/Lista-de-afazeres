@@ -1,6 +1,6 @@
-# Projeto: Calculadora Simples
+# Projeto: Lista de afazeres
 ![LabelCalculadora](/assets/todolist.png)
-Uma simples calculadora para ajuda-lo a realizar contas do seu dia a dia.
+checklist, ou lista de verificação, é uma ferramenta que te ajuda a organizar e finalizar tarefas de forma eficiente. Ela consiste em uma lista de itens que precisam ser concluídos passo a passo, garantindo que nada seja esquecido e que tudo seja feito da maneira correta.
 
 ## índice
 - <a href="#funcionalidades-do-projeto">Funcionalidades do Projeto</a>
@@ -9,7 +9,8 @@ Uma simples calculadora para ajuda-lo a realizar contas do seu dia a dia.
 - <a href="#tecnologias-utilizadas">Tecnologias Utilizadas<a>
 
 ## Funcionalidades do Projeto
-- [x] Calculos simples
+- [x] Lista de afazeres
+- [x] Ajudar a lembrar
 
 ## Layout
 - CSS
