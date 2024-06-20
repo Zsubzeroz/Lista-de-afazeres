@@ -16,7 +16,7 @@ Uma simples calculadora para ajuda-lo a realizar contas do seu dia a dia.
 <!--"Imagens"-->
 
 ## Demonstração
-![Link demonstraçãoo](/assets/todolist.mp4)
+![Link demonstraçãoo](/assets/todolist.gif)
 
 ## Tecnologias utilizadas
 - Java Script
