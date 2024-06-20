@@ -11,6 +11,7 @@ checklist, ou lista de verificação, é uma ferramenta que te ajuda a organizar
 ## Funcionalidades do Projeto
 - [x] Lista de afazeres
 - [x] Ajudar a lembrar
+- [x] Gerenciar tarefas
 
 ## Layout
 - CSS
